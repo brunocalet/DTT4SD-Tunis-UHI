@@ -19,7 +19,7 @@ Everything runs in your browser, in Google Colab.
 
 Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brunocalet/DTT4SD-Tunis-UHI/blob/main/DTT4SD_Tunis_UHI_hands_on.ipynb)
 
-[Tutorial with outputs](DTT4SD_Tunis_UHI_hands_on_with_outputs.ipynb) (to read on GitHub, for example if your Earth Engine project does not work)
+[Tutorial with outputs](DTT4SD_Tunis_UHI_hands_on_with_outputs.ipynb) (to read on GitHub, for example if your Earth Engine project does not work). Its maps are static snapshots.
 
 ### You need
 
